@@ -1,0 +1,116 @@
+h1 {
+	color: #ff944d;
+	font-family: 'Special Elite', cursive;
+	background-color:purple;
+	text-align:center;
+	font-size:80px;
+	}
+	
+nav a{
+	font-family: 'Special Elite', cursive;
+	background-color:purple;
+	color:#ff944d;
+	font-size:40px;
+	margin: 40px;
+    padding: 0px;
+    text-decoration:none;
+	}
+
+p{
+	font-family: 'Special Elite', cursive;
+	}
+	
+h3{
+	font-family: 'Special Elite', cursive;
+	color:#ff944d;
+	}
+	
+h2{
+	font-family: 'Special Elite', cursive;
+	color:#ff944d;
+	}
+	
+ul li{
+	font-family: 'Special Elite', cursive;
+	color:#ff944d;
+	line-height:35px;
+	}
+	
+img {
+	width:60%;
+	
+	}
+		
+*{
+	background:#3d2933;
+	border:3px;#ff944d dashed;
+	}
+
+nav {
+	background-color:purple;
+	color:#ff944d;
+	text-align:center;
+	}
+
+div{
+	background-color:purple;
+	background-size:30px;
+	}
+	
+#first{
+	background-color:#3d2933;
+	}
+	
+#second{
+	background-color:#3d2933;
+	}
+	
+#third{
+	color:#ff944d;
+	background-color:purple;
+	text-decoration:none;
+	text-align:center;
+	}
+	
+#fourth{
+	background-color:purple;
+	}
+	
+#fifth{
+	text-indent:2em;
+	padding-bottom:5px;
+	line-height:35px;
+	}
+#tenth{
+	text-indent:2em;
+	padding-bottom:5px;
+	line-height:35px;
+	text-decoration:underline;
+	}
+	
+#sixth{
+	text-decoration:none;
+	}
+	
+#seventh{
+	color:blue;
+	text-align:right;
+	}
+	
+a href{
+	text-align:center;
+	}
+	
+body{
+	border:2px #ff944d;
+	border-style:double;
+	border-width: 20px;
+	}
+
+.container {
+   padding: 25px;
+}
+
+.rotateimg180 {
+  transform: rotate(90deg);
+	}
